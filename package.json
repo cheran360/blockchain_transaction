@@ -1,0 +1,14 @@
+{
+  "name": "transaction",
+  "version": "1.0.0",
+  "description": "a simple web3.js transaction application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cheran kumar",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.7.3"
+  }
+}
